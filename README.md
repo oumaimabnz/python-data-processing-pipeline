@@ -1,5 +1,14 @@
 # Python Data Processing Pipeline
 
+## Visualization Preview
+
+![Correlation Heatmap](outputs/plots/correlation_heatmap.png)
+> This visualization shows feature correlations within the dataset, helping identify relationships between variables and supporting model development.
+
+---
+
+## Project Overview
+
 This project implements a complete Python pipeline for loading, cleaning, analyzing, and modeling monitoring data using multivariable linear regression.
 
 The goal is to simulate a real-world data processing workflow, including preprocessing, visualization, and model evaluation.
